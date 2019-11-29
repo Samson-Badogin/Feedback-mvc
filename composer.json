@@ -1,0 +1,13 @@
+{
+    "name": "user/feedback.ru",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shulgin5",
+            "email": "shulgin220618@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
